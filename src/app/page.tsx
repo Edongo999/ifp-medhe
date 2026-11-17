@@ -5,7 +5,7 @@ import About from "@/components/About";
 import InfoBanner from "@/components/InfoBanner";
 import Formations from "@/components/Formations";
 import Footer from "@/components/Footer";
-import RegistrationModal from "@/components/RegistrationModal";
+
 export default function Home() {
   return (
     <>
@@ -17,8 +17,8 @@ export default function Home() {
         <InfoBanner />
         <About />
         <Formations />
-        <RegistrationModal />
       </main>
+
       <Footer />
     </>
   );

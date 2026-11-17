@@ -43,7 +43,7 @@ export default function Formations() {
   return (
     <section
       id="formations"
-      className="relative border-t border-[#16A6A1]/15 bg-[#F1F6F8] py-16 sm:py-20 lg:py-8"
+      className="relative border-t border-[#16A6A1]/15 bg-[#F1F6F8] py-8 sm:py-20 lg:py-8"
     >
       <div className="mx-auto max-w-7xl px-5 sm:px-8 lg:px-10">
         {/* EN-TÊTE */}
